@@ -5,7 +5,7 @@
       <paths name="wustone">
         <serverdata>
           <mappings>
-            <mapping deploy="/6.824" local="$PROJECT_DIR$" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
